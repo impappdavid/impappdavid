@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on **GhostPad**
 
-- 🌱 I’m currently learning **Python**
-
 - 👨‍💻 All of my projects are available at [https://www.pappdavid.com/](https://www.pappdavid.com/)
-
-- 💬 Ask me about **Svelte**
 
 - 📫 How to reach me **impappdavid@gmail.com**
 
