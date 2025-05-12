@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/impappdavid" target="blank"><img src="https://img.shields.io/twitter/follow/impappdavid?logo=twitter&style=for-the-badge" alt="impappdavid" /></a> </p>
 
-- 🔭 I’m currently working on **GhostPad**
-
 - 👨‍💻 All of my projects are available at [https://www.pappdavid.com/](https://www.pappdavid.com/)
 
 - 📫 How to reach me **impappdavid@gmail.com**
