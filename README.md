@@ -2,30 +2,31 @@
   <img height="350px" src="/banner.jpg" alt="Banner" />
 
   # Hi there, I'm David 👋
-  ### Full-Stack Software Developer from Hungary 🇭🇺
+  ### Full-Stack Software Developer | React & Express.js 🇭🇺
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Fullstack+Open+Student;TypeScript+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Open+Grade+5%2F5;TypeScript+Expertise;Building+Scalable+Solutions)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🔨 **Currently working on:** - *Building something awesome.*
-- 📖 **Learning:** Currently advancing through the [Full Stack Open](https://fullstackopen.com/en/) course to master modern web patterns.
-- ⚡ **Fun Fact:** Passionate about clean code and efficient developer workflows.
+- 🔨 **Currently working on:** .
+- 🏆 **Major Achievement:** Awarded **Grade 5/5** in the University of Helsinki’s **Full Stack Open**, demonstrating mastery in RESTful APIs, MongoDB, and automated testing.
+- 📖 **Currently Learning:** Advancing through GraphQL and Apollo Server to enhance my backend architecture skills.
+- ⚡ **Fun Fact:** I bridge the gap between design and logic, specializing in high-performance React and Next.js applications.
 
 ---
 
 ### 💻 Tech Stack
 
 #### **Frontend Mastery**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-#### **Backend & Logic**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Middleware](https://img.shields.io/badge/Middleware-404d59?style=for-the-badge) ![CORS](https://img.shields.io/badge/CORS-FF6C37?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+#### **Backend & Databases**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### **Tools & Workflow**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+#### **Tools & Quality**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-black?style=for-the-badge&logo=github-actions&logoColor=white)
 ---
 
 <div align="center">
