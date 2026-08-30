@@ -12,7 +12,7 @@
 ### 🚀 About Me
 - 🔨 **Currently working on:** Noda.
 - 🏆 **Major Achievement:** Awarded **Grade 5/5** in the University of Helsinki’s **Full Stack Open**, demonstrating mastery in RESTful APIs, MongoDB, and automated testing.
-- 📖 **Currently Learning:** Advancing through GraphQL and Apollo Server to enhance my backend architecture skills.
+- 📖 **Currently Learning:** C++
 - ⚡ **Fun Fact:** I bridge the gap between design and logic, specializing in high-performance React and Next.js applications.
 
 ---
